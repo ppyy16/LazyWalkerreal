@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LazyWalker</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="Newpage">Create a new walk</string>
+    <string name="welc">Welcome to the LazyWalker app, lets get Lazy!</string>
+    <string name="title_activity_newcalc">NewcalcActivity</string>
+    <string name="title_activity_history">historyActivity</string>
+    <string name="save">Save</string>
+    <string name="Summary">Summary</string>
+
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="histmess">Select from old walks</string>
+    <string name="title_activity_summpage">summpage</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
